@@ -1,7 +1,10 @@
-#name {
+#Name {
 font-family: "Times";
 font-size: "100px";
 background-color: #4aaaa5;
-color: white;
-
+color: #ffffff;
+width: 230px;
+padding: 30px;
+margin: 25px;
+text-align: center;
 }
